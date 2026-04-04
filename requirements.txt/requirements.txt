@@ -1,0 +1,7 @@
+streamlit
+tensorflow
+plotly
+deep-translator
+pillow
+opencv-python
+numpy
