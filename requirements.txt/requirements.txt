@@ -3,5 +3,5 @@ tensorflow
 plotly
 deep-translator
 pillow
-opencv-python
+opencv-python-headless
 numpy
